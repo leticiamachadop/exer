@@ -39,7 +39,7 @@ li:hover {
 }
 #titulo {
     color: white;
-    padding-top: 12%;
+    padding-top: 20%;
     font-size: 40px;
     line-height: 0.6;
     font-family: sans-serif;
@@ -47,8 +47,8 @@ li:hover {
 }
 #subtitulo {
     color: white;
-    margin-left: 20%;
-    margin-right: 20%;
+    margin-left: 10%;
+    margin-right: 10%;
     border-top: 3px solid white;
     text-shadow: 1px 1px  black;
     font-family: sans-serif;
@@ -106,7 +106,7 @@ footer {
    #menu {
        visibility: hidden;
    } 
-   .coluna, .dois, .tres, .quatro {
+   .coluna, .dois, .tres {
         display: block;   
         width: 80%;
         padding: 0;
